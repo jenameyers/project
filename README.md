@@ -1,8 +1,8 @@
 # final-project
 
-*This is my final project for the year. My game is a 2d platform game where you as the player has to collect coins and avoid getting hit with spikes."
+*This is my final project for the year. My game is a 2d platform game where you as the player has to collect coins and avoid getting hit with spikes.*
 
-* One of the files i created for the game*
+*One of the files i created for the game*
 
 local Camera = {
    x = 0,
